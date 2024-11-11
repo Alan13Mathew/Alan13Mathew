@@ -1,13 +1,12 @@
 ## Hi there 👋
 
-**Alan13Mathew/Alan13Mathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here’s a bit about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on an **Expense Tracker** website.
+- 🌱 Currently diving into the **ME(A)RN stack**.
+- 👯 I’m open to **collaborating on impactful tech projects**.
+- 🤔 Seeking insights and mentorship in **React** development.
+- 💬 Feel free to chat with me about **technology**, **adventure**, or **ebooks**.
+- 📫 Reach out: [alancmathew1@gmail.com](mailto:alancmathew1@gmail.com).
 
-- 🔭 I’m currently working on Expense tracker website.
-- 🌱 I’m currently learning ME(A)RN stack.
-- 👯 I’m looking to collaborate on inmakes infotech.
-- 🤔 I’m looking for help with learning React.
-- 💬 Ask me about Technology, adventure, ebooks.
-- 📫 How to reach me: [alancmathew1@gmail.com](alancmathew1@gmail.com).
-
+Let’s connect and create something amazing together!
